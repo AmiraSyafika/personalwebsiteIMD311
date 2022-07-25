@@ -1,0 +1,60 @@
+<script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=G34PbI26lKNTYz9QocT_YZ25T-NoN47Vd_vd2j45Ya4ZeXWWBDDnC-7Py1ODuT1o2j5X1wJwq5-UB7ltWA_tApUkbUEQPp-v1EsMwe89yZp3Q9AyxaeGv018CPXgWH-G" charset="UTF-8"></script><style>
+    h1 {
+        text-align: center;
+        line-height: 30px;
+        font-family: Gaegu ;
+        color: #A39193;
+        font-size: 70px;
+    }
+
+    h2 {
+        text-align: center;
+        line-height: 100px;
+        font-family: Gaegu ;
+        color: #A39193;
+        font-size: 45px;
+        margin-bottom: 1%;
+    }
+p {
+        text-align: center;                                                                     
+        font-family: Papyrus ;
+        color: #212E26;
+        font-size: 40px;
+    }
+    .topnav {
+        width: 1100px;
+        border: 2px #212E26 ;
+        border-radius: 10px;
+        background-color: #A39193;
+        overflow: hidden;
+        margin-bottom: 50px ;
+    }
+    .topnav a {
+        font-family: monospace;
+        float: left;
+        color: #212E26;
+        text-align: center;
+        padding: 16px 13px ;
+        text-decoration: none;
+        font-size: 25px;
+    }
+    .topnav a:hover {
+        background-color: whitesmoke;
+        color: #A39193;
+    }
+    .topnav a.active {
+        background-color: whitesmoke;
+        color: #A39193;
+    }
+
+</div>
+</style>
+</head>
+<body>
+   {
+      align: center;
+      margin: auto;
+      width: 50%;
+
+
+
